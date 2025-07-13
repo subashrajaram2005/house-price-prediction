@@ -4,9 +4,5 @@
 /dataSources/
 /dataSources.local.xml
 
-# IntelliJ IDEA / PyCharm configs
-*.iml
 .idea/
-modules.xml
-misc.xml
-inspectionProfiles/
+
